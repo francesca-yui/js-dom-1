@@ -41,7 +41,7 @@ body {
     box-shadow: 0px 0px 25px #4CAF50;
 }
 
-.btn:hover {
+.btn.spegni:hover {
     background-color: #d30000;
     border: solid #d30000;
     color: #f6f6f6;
